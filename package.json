@@ -17,6 +17,10 @@
         "vite": "^5.0"
     },
     "dependencies": {
-        "preline": "^2.5.1"
+        "@vitejs/plugin-vue": "^5.1.4",
+        "jquery": "^3.7.1",
+        "preline": "^2.5.1",
+        "toastr": "^2.1.4",
+        "vue": "^3.5.12"
     }
 }
